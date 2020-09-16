@@ -10,7 +10,7 @@
 // 3. .join() simply concatenate the array back to a string
 // 4. Use strict type to compare the input passed to the reverse string variable
 
-checkIfPalindrome = (input) => {
+function checkIfPalindrome(input) {
     // regex expression to find spaces
     const regexExp = /\s/g; 
     // using regex expression to replace with empty string
