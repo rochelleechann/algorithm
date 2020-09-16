@@ -1,0 +1,19 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Step Stone short interview questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochelleechann/stepstone-algorithms.git"
+  },
+  "author": "Rochelle Chan <rochelle.r.chan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rochelleechann/stepstone-algorithms/issues"
+  },
+  "homepage": "https://github.com/rochelleechann/stepstone-algorithms#readme"
+}
